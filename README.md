@@ -11,7 +11,7 @@ Project ini memiliki tujuan sebagai berikut:
 ```
 ## Setup Environment
 ### 1. Clone Repository 
-git clone 
+git clone https://github.com/sabibu12/Submission-Bike-Sabia-Putri-Aulia
 ### 2. Anaconda 
 ```
 conda create -n main-ds python=3.13.12
